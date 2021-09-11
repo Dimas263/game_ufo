@@ -3,9 +3,9 @@ game sederhana dengan alien seperti game mario berbasis web
 
 ## Tampilan
 <img src="file/1.png" alt="alt text" width="300"/>
-<img src="file/1.png" alt="alt text" width="300"/>
-<img src="file/1.png" alt="alt text" width="300"/>
-<img src="file/1.png" alt="alt text" width="300"/>
+<img src="file/2.png" alt="alt text" width="300"/>
+<img src="file/3.png" alt="alt text" width="300"/>
+<img src="file/4.png" alt="alt text" width="300"/>
 
 # LICENSE
 MIT License
