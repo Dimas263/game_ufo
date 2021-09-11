@@ -1,4 +1,4 @@
-# game_ufo
+# Game UFO
 game sederhana dengan alien seperti game mario berbasis web
 
 ## Tampilan
