@@ -1,4 +1,4 @@
-# Game UFO
+# <img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/undefined/external-game-coding-kiranshastry-lineal-color-kiranshastry.png"/> Game UFO
 game sederhana dengan alien seperti game mario berbasis web
 
 ## Tampilan
